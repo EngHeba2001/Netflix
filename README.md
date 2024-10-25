@@ -1,2 +1,2 @@
 # Netflix
-do analysis and visualize on Netfilx dataset
+analysis and visualize on Netfilx dataset
